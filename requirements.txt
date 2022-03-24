@@ -1,0 +1,17 @@
+certifi
+chardet
+django
+geocoder
+icalendar
+icalendar
+pip
+plyer
+progressbar
+pytz
+requests
+schedule
+setuptools
+six
+south
+sqlparse
+urllib3
